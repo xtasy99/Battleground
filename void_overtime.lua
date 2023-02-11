@@ -31,7 +31,7 @@ function modifier_overtime:OnCreated( kv )
 	attackspeed = 450
 	movespeed = 4000
 	statusresistance = 80
-	castimered = 80  -- not sure if casttime reduction is working, need more testing or better value
+	castimered = 20  -- not sure if casttime reduction is working, need more testing or better value
 
 	
 	-- command to slow time scale
